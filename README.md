@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="center">Hi there, David Achara</h1>
+<h1 align="center">Hi there, I'm David/h1>
 
 ###
 
