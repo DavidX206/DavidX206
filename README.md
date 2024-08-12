@@ -47,7 +47,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+/*<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -93,7 +93,7 @@
   <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-</div>
+</div>*/
 
 ###
 
